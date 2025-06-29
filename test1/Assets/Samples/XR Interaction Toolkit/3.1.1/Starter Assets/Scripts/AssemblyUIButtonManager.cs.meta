@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a2a60da1ce324d42be202cf3ba7b3f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonAssemblyGO: {fileID: 3208981850372315081, guid: 346ad429b2310b64cb1d6da2bf80d061,
+      type: 3}
+  - buttonAssembly: {fileID: 7746530424865708566, guid: 13b0fcd86045e0242af0cb67d64204eb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
